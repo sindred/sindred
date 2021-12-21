@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sindred
 - 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python/Django
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
